@@ -2,7 +2,9 @@
 
 
 **Presentation link**: https://docs.google.com/presentation/d/16AcQNpj5ySN8Adv35zx_Q9d2ocAs6TXx/edit#slide=id.p1 
+
 **Prototype link**: https://www.figma.com/design/0KV1BSDyRMN0VEnyR1ZKHe/HOSPITALO?node-id=0-1&p=f&t=3V6GtEj7MTWHbLnc-0
+
 **Project Overview Video link**: https://drive.google.com/file/d/1R11yaI7jfRiJRNC3Oc6OIruh8xkfOC9e/view?usp=sharing
 
 **Hospitalo**: The Future of Digital Healthcare
